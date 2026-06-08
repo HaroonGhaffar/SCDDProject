@@ -143,7 +143,7 @@ Click **Save File** to save all student data into `students.txt`.
 
 ![Main Window](screenshots/img.png)
 
-### Add Student Successfully
+### GUI 
 
 ![Add Student](screenshots/img_1.png)
 
